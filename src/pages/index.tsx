@@ -21,13 +21,13 @@ export default function Home() {
             />
           </div>
           <div className="text-center">
-            <h3 className="text-xl md:text-2xl font-medium text-[#161654]">
+            <h3 className="text-xl md:text-2xl font-bold text-[#161654]">
               COSMETIC
             </h3>
             <h3 className="text-xl md:text-2xl text-[#161654]">
               PRODUCTS & BRAND
             </h3>
-            <h3 className="text-xl md:text-2xl font-medium  text-[#161654]">
+            <h3 className="text-xl md:text-2xl font-bold  text-[#161654]">
               CONSULTANCY
             </h3>
           </div>
