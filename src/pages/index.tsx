@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>no145</title>
+        <title>no145 Consultancy</title>
         <meta
           name="description"
           content="COSMETIC PRODUCTS & BRAND CONSULTANCY"
